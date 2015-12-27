@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "2.2.3"
+ruby "1.8.7"
 
 group :test do
   gem "rspec"
